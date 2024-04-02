@@ -10,5 +10,5 @@ Random functions are used, which causes the position of the stars to change ever
 They get a random color and their time is also random.<br>
 
 ### That was all!
-Link to watch online:
+Link to watch online: https://saeedkahe.github.io/Stars/
 ### Good luck!😍
